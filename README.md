@@ -1,4 +1,4 @@
-IBM Data Analyst CAoston Project
+IBM Data Analyst Capston Project
 
 In this assignment, I have worked with the Kaggle survey 2023 data to create a dashboard. You can complete your final dashboard using IBM Cognos Analytics or Google Looker Studio.  
 In this dashboard, I have created the following:
